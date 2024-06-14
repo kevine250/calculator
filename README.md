@@ -50,3 +50,5 @@ For comprehensive Flutter development resources, including tutorials, samples, a
 ---
 
 Explore the Calculator App and enjoy calculating with ease! For any questions or feedback, please [contact us](Ronald:mugaboronald12@gmail.com).
+<img width="956" alt="image" src="https://github.com/mugaboronald1/calculator/assets/99381533/a243df66-751a-4ee9-96d0-18af0ac19434">
+
